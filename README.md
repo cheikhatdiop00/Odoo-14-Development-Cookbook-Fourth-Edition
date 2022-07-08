@@ -1,6 +1,6 @@
 # Odoo 14 Development Cookbook - Fourth Edition
 
-<a href="https://www.packtpub.com/product/odoo-14-development-cookbook-fourth-edition/9781800200319?utm_source=github&utm_medium=repository&utm_campaign=9781800200319"><img src="https://static.packt-cdn.com/products/9781800200319/cover/smaller" alt="Odoo 14 Development Cookbook - Fourth Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/odoo-14-development-cookbook-fourth-edition/9781800200319? cc utm_source=github&utm_medium=repository&utm_campaign=9781800200319"><img src="https://static.packt-cdn.com/products/9781800200319/cover/smaller" alt="Odoo 14 Development Cookbook - Fourth Edition" height="256px" align="right"></a>
 
 This is the code repository for [Odoo 14 Development Cookbook - Fourth Edition](https://www.packtpub.com/product/odoo-14-development-cookbook-fourth-edition/9781800200319?utm_source=github&utm_medium=repository&utm_campaign=9781800200319), published by Packt.
 
